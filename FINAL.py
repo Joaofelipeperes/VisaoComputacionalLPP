@@ -2,6 +2,8 @@
 OBS para rodar o código as bibliotecas cv2 e mediapipe devem ser instaladas, preferencialmente com a mesma versão do código
 mediapipe: 0.10.18
 opencv-python: 4.10.0.84
+comtypes: 1.4.8
+pycaw
 """
 import cv2
 import mediapipe as mp
